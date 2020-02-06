@@ -1,0 +1,34 @@
+.footer {
+  background-color: #3c4846;
+  text-align: center;
+  padding: 60px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+}
+
+
+.fab {
+  font-size: 32px;
+  margin: 0 24px;
+  color: pink;
+}
+
+.fab:hover {
+  color: #ec5d57;
+}
+
+.footer p {
+  color: pink;
+}
+
+.footer .fas {
+  color: red;
+
+}
